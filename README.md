@@ -71,4 +71,4 @@ npm test
 
 ## Демонстрація
 
-[Посилання на демонстрацію](https://example.com/demo)
+<video src="media/demonstration.mp4" width="640" controls></video>
