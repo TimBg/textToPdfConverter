@@ -71,8 +71,4 @@ npm test
 
 ## Демонстрація
 
-<video
-  src="https://raw.githubusercontent.com/TimBg/textToPdfConverter/main/media/demonstration.mov"
-  width="640"
-  controls>
-</video>
+[![Дивитись демо]](https://streamable.com/vqhs6x)
