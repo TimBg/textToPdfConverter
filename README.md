@@ -71,4 +71,4 @@ npm test
 
 ## Демонстрація
 
-<video src="media/demonstration.mp4" width="640" controls></video>
+<video src="media/demonstration.mov" width="640" controls></video>
