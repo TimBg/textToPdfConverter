@@ -71,4 +71,4 @@ npm test
 
 ## Демонстрація
 
-[Дивитись демо](https://streamable.com/vqhs6x)
+[Дивитись демо](https://streamable.com/mazhzx)
